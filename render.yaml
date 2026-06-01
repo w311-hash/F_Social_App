@@ -1,0 +1,6 @@
+# Render build configuration
+# The backend will auto-start from this config
+
+build_dir: "./"
+build_command: "npm install"
+start_command: "node server.js"
